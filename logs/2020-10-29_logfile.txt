@@ -1,0 +1,31 @@
+2020-10-29 12:37:45.6767 INFO Returned all owners from database.
+2020-10-29 12:38:02.9939 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 12:38:16.8519 INFO Returned all owners from database.
+2020-10-29 12:38:21.4054 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-10-29 12:38:43.6332 INFO Returned all owners from database.
+2020-10-29 12:38:52.5115 INFO Returned all owners from database.
+2020-10-29 12:38:56.3147 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2020-10-29 12:39:02.8545 INFO Returned all owners from database.
+2020-10-29 12:39:10.2864 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 14:50:31.4809 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 14:50:49.3544 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 14:52:57.6641 INFO Returned all owners from database.
+2020-10-29 15:18:24.3977 INFO Returned all owners from database.
+2020-10-29 15:24:33.2159 INFO Returned all owners from database.
+2020-10-29 15:26:03.3524 INFO Returned all owners from database.
+2020-10-29 15:50:27.9583 INFO Returned all owners from database.
+2020-10-29 15:50:49.0313 INFO Returned all owners from database.
+2020-10-29 16:50:21.9571 INFO Returned all owners from database.
+2020-10-29 16:50:47.0600 INFO Returned all owners from database.
+2020-10-29 17:03:17.7504 INFO Returned owner with id: 08d87c5d-11ae-4536-8ba1-b4e4bba96137
+2020-10-29 17:03:22.0947 INFO Returned all owners from database.
+2020-10-29 17:03:24.1106 INFO Returned owner with id: 08d87c5d-11ae-4536-8ba1-b4e4bba96137
+2020-10-29 17:06:03.3829 INFO Returned owner with id: 08d87c5d-11ae-4536-8ba1-b4e4bba96137
+2020-10-29 17:06:04.3852 INFO Returned owner with id: 08d87c5d-11ae-4536-8ba1-b4e4bba96137
+2020-10-29 17:06:05.3386 INFO Returned owner with id: 08d87c5d-11ae-4536-8ba1-b4e4bba96137
+2020-10-29 17:06:16.1111 INFO Returned all owners from database.
+2020-10-29 17:06:20.9044 INFO Returned owner with id: 08d87c5d-11ae-4536-8ba1-b4e4bba96137
+2020-10-29 17:07:22.0701 INFO Returned all owners from database.
+2020-10-29 17:08:29.4147 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 17:08:44.3135 INFO Returned all owners from database.
+2020-10-29 17:08:47.7940 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
